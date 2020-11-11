@@ -1,0 +1,26 @@
+body{
+	
+	background-color:#DCDCDC;
+}
+h1{
+	color: #dddddd;
+	text-align: center;
+	background-color: #191970;
+}
+p{
+	color: #00008B;
+	font-weight: bold;
+		
+}
+*{
+	margin: 0;
+	padding: 0;
+
+
+}
+#menu{
+	font-family: arial, ;
+}
+.form-check-input{
+	font-style: italic;
+}
